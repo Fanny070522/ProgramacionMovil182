@@ -1,0 +1,8 @@
+que es Java Script?
+Es uno de los lenguajes de programación más populares y quizá el más utilizado
+trabajos como: Desarrollo web 
+	(Frontend- parte visual de la aplicación)
+	(backend- escribe la pare lógica)
+	(Fullstack- desarrollador de ambas partes como de front y back)
+Y son los encargados de construir las app moviles para Android e iOS 
+Javascript es la navaja suiza de los lenjuages de programación 
