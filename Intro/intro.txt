@@ -1,8 +1,25 @@
-que es Java Script?
+¿qué es Java Script?
 Es uno de los lenguajes de programación más populares y quizá el más utilizado
 trabajos como: Desarrollo web 
 	(Frontend- parte visual de la aplicación)
 	(backend- escribe la pare lógica)
 	(Fullstack- desarrollador de ambas partes como de front y back)
-Y son los encargados de construir las app moviles para Android e iOS 
-Javascript es la navaja suiza de los lenjuages de programación 
+Y son los encargados de construir las app moviles para Android e iOS y sobre microcontroladores así como Javascript es la navaja suiza de los lenjuages de programación 
+
+Frameworks: Entrega herramientas y muchas más herramientas para desarrollar aplicaciones que sean complejas. Ejemplos: Veu, Angular, React (más popular dentro de JS)
+Librerías: Encargado de solucionar un problema específico y tambien son herramientas 
+El framework entrega más herramientas que una librería y se puede construir una aplicación completa utilizando solamente herramientas de framework, y una librería solo intenta resolver un problam en especifico.
+
+historia de JS: se hizo para ejecutarse dentro de los exploradores web especificamente dentro de netscape (la razon de su creación es por que los sitios web eran estáticos) 
+Ecmascript (european computer manufacturers assosiation): repreenta una orgaización con el fin de contribuir a estándares tecnologicos. Ek¿jemplo: ECMA 334 (especificaciones rtecnicas de c sharp), ECMA 404 (especificaciones de Jason), ECMA 408 (especificaciones tecnicas del lenguaje Dart), ECMA 262 o ECMascript (estandares para los lenguajes de programación js, action script) y la verasion del mismo en el año 2015 se introdujeron funcionalidades como por jemplo LED const, fat Arrow functions, clases en js, etc)
+ecmascript 2015 cambio el mundo de javascript y js fue un lenguaje que se escribio para los exploradores web y todos tienen un motor que se encarga de ejecutar JS (javascrit engine o motor javascript) y el motor de Google Chrome es V8 siendo de codigo abierto y cualquier persona en todo el mundo puede acceder a leer el código fuente.
+
+El desarrolador Ryan d logró en beber esre motor de V8 dentro de codigo escrito en C++, permitiendo que el código de JS pueda ser ejecutado practicamente en cualquier lado gracias a este señor. y pueda ser ejecutado en servidores, aplicaciones de ecsritorio, moviles, videojuegos o microcontroladores. El codigo escrito en C++ permitió enbeber el motor V8 (node js).
+
+Herramientas a utilizar:
+-Visual studio Code: editor de texto fue construido por javascript
+-Node js: ayuda para construir los bundles (fajos o fajos de billetes) 
+-Google Chrome
+
+
+
